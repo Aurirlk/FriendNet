@@ -1,0 +1,49 @@
+{
+  "people": {
+    "张三": {
+      "features": {
+        "university": "南东大学",
+        "hobby": "reading"
+      },
+      "friends": [
+        "李四",
+        "王五"
+      ]
+    },
+    "李四": {
+      "features": {
+        "university": "清北大学"
+      },
+      "friends": [
+        "张三",
+        "赵六"
+      ]
+    },
+    "王五": {
+      "features": {
+        "hobby": "chess"
+      },
+      "friends": [
+        "张三",
+        "刘七"
+      ]
+    },
+    "赵六": {
+      "features": {
+        "university": "南东大学",
+        "height": "175cm"
+      },
+      "friends": [
+        "李四"
+      ]
+    },
+    "刘七": {
+      "features": {
+        "favourite author": "AA Milne"
+      },
+      "friends": [
+        "王五"
+      ]
+    }
+  }
+}

@@ -1,0 +1,29 @@
+# 大规模社交网络测试数据（20人）
+# 格式：人名: 特征1=值1,特征2=值2; 好友1,好友2,好友3
+
+Alice: university=清北大学,hobby=reading,age=22; Bob,Charlie,David
+Bob: university=南东大学,hobby=swimming,age=23; Alice,Emma
+Charlie: university=南东大学,hobby=chess,age=24; Alice,Frank
+David: university=清北大学,hobby=reading,age=21; Alice,Grace
+Emma: university=华科大学,hobby=dancing,age=22; Bob,Hannah
+Frank: university=南东大学,hobby=reading,age=23; Charlie,Ivy
+Grace: university=清北大学,hobby=singing,age=24; David,Jack
+Hannah: university=华科大学,hobby=reading,age=21; Emma,Kevin
+Ivy: university=南东大学,hobby=chess,age=22; Frank,Lisa
+Jack: university=清北大学,hobby=reading,age=23; Grace,Mike
+Kevin: university=华科大学,hobby=swimming,age=22; Hannah,Nina
+Lisa: university=南东大学,hobby=dancing,age=24; Ivy,Oliver
+Mike: university=清北大学,hobby=reading,age=21; Jack,Paul
+Nina: university=华科大学,hobby=chess,age=23; Kevin,Quinn
+Oliver: university=南东大学,hobby=singing,age=22; Lisa,Rose
+Paul: university=清北大学,hobby=reading,age=24; Mike,Sam
+Quinn: university=华科大学,hobby=swimming,age=21; Nina,Tina
+Rose: university=南东大学,hobby=dancing,age=23; Oliver,Uma
+Sam: university=清北大学,hobby=reading,age=22; Paul,Vera
+Tina: university=华科大学,hobby=chess,age=24; Quinn,Wendy
+Uma: university=南东大学,hobby=singing,age=21; Rose,Xena
+Vera: university=清北大学,hobby=reading,age=23; Sam,Yara
+Wendy: university=华科大学,hobby=swimming,age=22; Tina,Zoe
+Xena: university=南东大学,hobby=dancing,age=24; Uma
+Yara: university=清北大学,hobby=chess,age=21; Vera
+Zoe: university=华科大学,hobby=reading,age=23; Wendy
